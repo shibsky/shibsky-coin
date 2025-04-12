@@ -1,0 +1,80 @@
+body {
+   margin: 0;
+   font-family: sans-serif;
+   color: white;
+   background: url("images/glxbg.jpg") no-repeat center center fixed;
+   background-size: cover;
+   text-align: center;
+}
+
+.hero {
+   padding: 80px 20px;
+}
+
+.hero img {
+   width: 300px;
+   margin: 20px 0;
+   border-radius: 300px;
+}
+
+.rocket {
+   border-radius: 300px ;
+}
+
+.imgfoot {
+   align-items: center;
+   justify-content: center;
+}
+
+.gallery {
+   width: 300px;
+}
+
+h1 {
+   font-size: 3em;
+   margin-bottom: 10px;
+   }
+
+p { 
+   font-size: 1.2em;
+}
+
+.buttons {
+   margin: 20px 0;
+}
+
+.btn {
+   display: inline-block;
+   background: #ed6905;
+   color: white;
+   padding: 12px 25px;
+   margin: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+   font-weight: bold;
+}
+
+.section {
+   padding: 50px 20px;
+   background: rgba(0,0,0,0.7);
+   margin: 20px;
+   border-radius: 20px;
+}
+
+.section h2 {
+   font-size: 2em;
+   margin-bottom: 10px;
+}
+
+ul, ol {
+   text-align: left;
+   max-width: 600px;
+   margin: 0 auto;
+   font-size: 1.2em;
+}
+
+footer {
+   padding: 30px 10px;
+   font-size: 0.9em;
+   color: #ccc;
+}
